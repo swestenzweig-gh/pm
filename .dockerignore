@@ -1,0 +1,12 @@
+.git
+.gitignore
+frontend/node_modules
+frontend/.next
+frontend/out
+docs
+scripts
+*.md
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
+**/._*
